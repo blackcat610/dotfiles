@@ -1,0 +1,4 @@
+Host dev
+    HostName host
+    IdentityFile ~/.ssh/filename.pem
+    User username
